@@ -84,10 +84,6 @@ The program would generate and display the Sierpinski triangle:
 
 The Sierpinski triangle generation is based on a recursive algorithm. At each level of recursion, a triangle is divided into three smaller triangles by connecting the midpoints of its sides. The algorithm continues recursively until the desired order is reached.
 
-## Contributing
-
-If you would like to contribute to this project, feel free to submit pull requests, report issues, or suggest improvements. Please follow the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md) when contributing.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
